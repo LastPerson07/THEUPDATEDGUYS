@@ -102,3 +102,6 @@ This project is licensed under the [MIT License]
 ---
 
 <p align="center"><b>THE UPDATED GUYS 😎</b></p>
+
+
+Noitce : This is NOT original repo , this is fully customized repo from the original repo and if you want OG repo then use THIS :- https://github.com/DreamXBotz/Auto_Filter_Bot
